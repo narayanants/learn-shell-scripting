@@ -1,0 +1,12 @@
+Shell scripting Intro:
+----------------------
+
+#! = Shebang
+uptime
+
+WORD='Hello World'
+echo "$WORD"
+
+Use double quotes to display variables
+
+
